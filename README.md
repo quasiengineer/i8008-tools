@@ -1,7 +1,9 @@
 # i8008-tools
 Toolchain for development for Intel 8008 systems
 
-Hosted version of emulator could be found there.
+Hosted version of emulator could be found [there](https://quasiengineer.github.io/i8008-tools/).
+
+![screenshot](./images/emu.png)
 
 # Assembly
 
