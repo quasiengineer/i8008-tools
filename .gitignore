@@ -1,0 +1,20 @@
+# vendor files
+node_modules
+
+# IDE
+.idea
+
+# build cache
+.parcel-cache
+dist
+
+# dumps
+*.dump
+
+# caches
+*.cache
+.cache
+
+
+# coverage
+coverage

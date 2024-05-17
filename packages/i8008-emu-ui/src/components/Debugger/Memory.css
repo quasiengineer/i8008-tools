@@ -1,0 +1,8 @@
+.memory-bytes {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 9pt;
+}
+
+.memory-bytes b {
+    color: red;
+}

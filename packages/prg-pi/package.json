@@ -1,0 +1,12 @@
+{
+  "name": "prg-pi",
+  "version": "1.0.0",
+  "author": "Mark <me@mark.engineer>",
+  "license": "MIT",
+  "description": "Computation of first X digits of Pi",
+  "type": "module",
+  "imports": {
+    "#utilities/*": "./src/utilities/*"
+  },
+  "private": true
+}
