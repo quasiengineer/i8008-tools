@@ -64454,7 +64454,7 @@ exports.default = new (0, _pullstate.Store)({
 },{"pullstate":"kvXHz","immer":"4sfoz","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"dnyBw":[function(require,module,exports) {
 let workerURL = require("9292268239332a4b");
 let bundleURL = require("ab951eba4cc5b9d9");
-let url = bundleURL.getBundleURL("ilPIM") + "i8008-tools/emulator.f131f5cb.js" + "?" + Date.now();
+let url = bundleURL.getBundleURL("ilPIM") + "emulator.f131f5cb.js" + "?" + Date.now();
 module.exports = workerURL(url, bundleURL.getOrigin(url), false);
 
 },{"9292268239332a4b":"cn2gM","ab951eba4cc5b9d9":"lgJ39"}],"cn2gM":[function(require,module,exports) {
@@ -65421,7 +65421,7 @@ function compile(sourceCode) {
 },{"../stores/compilerStore.js":"cos1w","a8e6eb64ec11fd21":"9ZhmP","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"9ZhmP":[function(require,module,exports) {
 let workerURL = require("1fff32a9f6c7a92e");
 let bundleURL = require("da14e1425849de20");
-let url = bundleURL.getBundleURL("ilPIM") + "i8008-tools/compiler.8f90f670.js" + "?" + Date.now();
+let url = bundleURL.getBundleURL("ilPIM") + "compiler.8f90f670.js" + "?" + Date.now();
 module.exports = workerURL(url, bundleURL.getOrigin(url), false);
 
 },{"1fff32a9f6c7a92e":"cn2gM","da14e1425849de20":"lgJ39"}],"22iG7":[function(require,module,exports) {
